@@ -13,7 +13,9 @@ Key Features of this Project:-
 3. Key Features:-
 
 I.    In-depth data exploration and trend analysis.
+
 II.   Interactive visualizations to present findings on team performance, match statistics, and winning patterns.
+
 III.  Modular and maintainable code structure.
 
 Problem Statement:- 
